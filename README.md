@@ -7,9 +7,20 @@
 
 ## 要求
 
+本爬虫程序要求macbook使用Node.js，选择Homebrew安装，前提是安装Homebrew及配置github的Token：
+
+- [安装Homebrew教程](https://blog.csdn.net/Sir_Coding/article/details/77509602)
+
+  安装，打开终端，复制粘贴，大约1分钟左右，下载完成，过程中需要输入密码，其他无需任何操作：
+     
+  ```
+   1  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  ```
+
 - 安装 [Node.js 10](http://yiilib.com/topic/723/Mac%E4%BD%BF%E7%94%A8Homebrew%E5%AE%89%E8%A3%85%E6%8C%87%E5%AE%9A%E7%89%88%E6%9C%ACNodejs)（其他版本未测试） `brew install node@10`
-- 安装 Git
+- 安装 Git,配置Token，[参考这份教程](https://blog.csdn.net/u014175572/article/details/55510825)
 - 命令行操作
+
 
 ## 使用方式
 
